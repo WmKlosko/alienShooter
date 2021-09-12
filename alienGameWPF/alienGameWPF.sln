@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alienGameWPF", "alienGameWPF\alienGameWPF.csproj", "{E6CC3E5E-4DF5-4D58-89DF-82A4DD51BBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CC3E5E-4DF5-4D58-89DF-82A4DD51BBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC3E5E-4DF5-4D58-89DF-82A4DD51BBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC3E5E-4DF5-4D58-89DF-82A4DD51BBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CC3E5E-4DF5-4D58-89DF-82A4DD51BBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486C1381-CF05-4D41-B282-933FA9192BC2}
+	EndGlobalSection
+EndGlobal
